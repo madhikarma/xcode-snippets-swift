@@ -26,8 +26,6 @@
 	<string>DC730245-3D1C-4A6E-AFA9-2EA25F388572</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Swift</string>
-	<key>IDECodeSnippetSummary</key>
-	<string>setup</string>
 	<key>IDECodeSnippetTitle</key>
 	<string>Setup + SetupConstraints</string>
 	<key>IDECodeSnippetUserSnippet</key>
