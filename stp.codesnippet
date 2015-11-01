@@ -20,8 +20,7 @@
     
     private func setupConstraints() {
         
-    }
-</string>
+    }</string>
 	<key>IDECodeSnippetIdentifier</key>
 	<string>DC730245-3D1C-4A6E-AFA9-2EA25F388572</string>
 	<key>IDECodeSnippetLanguage</key>
