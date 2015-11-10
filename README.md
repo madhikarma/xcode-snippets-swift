@@ -1,4 +1,9 @@
 # xcode-snippets-swift
 Swift code snippets
 
-Copy all files to ~/Library/Developer/Xcode/UserData/CodeSnippets
+# Setup
+- Copy all files to ~/Library/Developer/Xcode/UserData/CodeSnippets
+- Restart Xcode
+ 
+# Setup
+- Use shortcut indicated by filename to autocomplete the code snippet 
