@@ -1,0 +1,1 @@
+cp snippets/*.codesnippet ~/Library/Developer/Xcode/UserData/CodeSnippets/ 

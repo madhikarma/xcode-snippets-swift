@@ -1,9 +1,25 @@
 # xcode-snippets-swift
-Swift code snippets
+Swift code snippets for Xcode
 
 # Setup
-- Copy all files to ~/Library/Developer/Xcode/UserData/CodeSnippets
-- Restart Xcode
+## Script
+Run `sh setup.sh` to copy all the snippets into the Xcode snippets folder.
+
+## Manual
+- Select all files in the `snippets` folder and copy them to: `~/Library/Developer/Xcode/UserData/CodeSnippets`.
+- Launch / Restart Xcode.
  
-# Setup
-- Use shortcut indicated by filename to autocomplete the code snippet 
+# Usage
+- Use shortcut indicated by each .codesnippet’s filename to autocomplete the code snippet. 
+
+e.g. 
+
+- `alrt` - For `UIAlertController` creation.
+- `cvds` - For `UICollectionViewDataSource` methods.
+- `initc` - For `initWithCoder:` initialiser method.
+- `initf` - For `initWithFrame:` initialiser method.
+- `mark` - For `MARK: -` Swift comment / directive.
+- `stp` - For `setup` and `setupConstraints` methods.
+- `stpo` - For overriden `setup` and `setupConstraints` methods (e.g. when subclassing <a href=“https://github.com/ustwo/baseview-swift”>BaseView-swift</a> framework)
+- `tvd` - For `UITableViewDelegate` methods.
+- `tvds` - For `UITableViewDataSource` methods.
